@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\Csharp\\assignment\\assignment.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\github\\Elective\\First_submission\\assignment.csproj",
       "projectName": "assignment",
-      "projectPath": "C:\\Users\\hp\\Documents\\Csharp\\assignment\\assignment.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\github\\Elective\\First_submission\\assignment.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\Csharp\\assignment\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\github\\Elective\\First_submission\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
