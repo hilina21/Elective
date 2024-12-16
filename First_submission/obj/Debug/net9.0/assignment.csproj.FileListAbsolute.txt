@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\Csharp\assignment\bin\Debug\net9.0\assignment.exe
+C:\Users\hp\Documents\Csharp\assignment\bin\Debug\net9.0\assignment.deps.json
+C:\Users\hp\Documents\Csharp\assignment\bin\Debug\net9.0\assignment.runtimeconfig.json
+C:\Users\hp\Documents\Csharp\assignment\bin\Debug\net9.0\assignment.dll
+C:\Users\hp\Documents\Csharp\assignment\bin\Debug\net9.0\assignment.pdb
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\assignment.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\assignment.AssemblyInfo.cs
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\assignment.dll
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\refint\assignment.dll
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\assignment.pdb
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\assignment.genruntimeconfig.cache
+C:\Users\hp\Documents\Csharp\assignment\obj\Debug\net9.0\ref\assignment.dll
